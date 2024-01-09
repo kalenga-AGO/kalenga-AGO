@@ -1,3 +1,5 @@
+/* António Pedro Kalenga */
+/* 09/jan/2024 11:36 */
 #include <stdio.h>
 #include <stdlib.h>
 
