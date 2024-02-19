@@ -1,3 +1,4 @@
+// António Pedro Kalenga
 #include <stdio.h>
 #include <stdlib.h>
 #define LINHA 30
